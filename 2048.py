@@ -10,6 +10,7 @@ actions_dict = dict(zip(letter_codes, actions * 2))
 
 '''
 用户输入处理
+this my first py progame 
 '''
 def get_user_action(keyboard):
     char = 'N'
